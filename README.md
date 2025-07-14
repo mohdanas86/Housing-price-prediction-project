@@ -2,21 +2,21 @@
 
 This project demonstrates a simple Linear Regression model to predict housing prices based on area, number of bedrooms, and number of bathrooms.
 
-## 📊 Dataset
+## Dataset
 The dataset used contains housing details like:
 - Area (in sqft)
 - Bedrooms
 - Bathrooms
 - Price (target variable)
 
-## 🔧 Tools Used
+## Tools Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
 
-## 📈 Steps
+## Steps
 1. Load and visualize dataset
 2. Prepare feature and target variables
 3. Split data into training and test sets
@@ -24,7 +24,7 @@ The dataset used contains housing details like:
 5. Evaluate performance (MAE & R² Score)
 6. Predict price for a new sample house
 
-## 🏠 Sample Prediction
+## Sample Prediction
 Predict the price for a house with:
 - Area: 2500 sqft
 - Bedrooms: 4
